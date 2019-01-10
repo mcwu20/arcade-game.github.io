@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+}
+
+.score-panel {
+    font: 2em Futura, sans-serif;
+    margin-bottom: -1.5em;
+}
