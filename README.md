@@ -3,8 +3,13 @@ Frogger Game
 
 ## Table of Contents
 
+* [About](#about)
 * [Rules](#rules)
 * [Instructions](#instructions)
+
+## About
+
+This project utilizes object-oriented functions to create the enemy and player classes. Using the provided images and resources, the purpose of this project is to learn how to create and use object-oriented classes. The main programming language used is javaScript, with minimal CSS and HTML.
 
 ## Rules
 
